@@ -3,3 +3,5 @@
 /* Create your new element here and assign it to newHeader */
 const newHeader = null;
 document.querySelector('main').remove();
+
+var title = document.createElement('h1');
